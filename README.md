@@ -1,3 +1,7 @@
+# Tutorial en Medium
+
+[Clic aquí para leer el tutorial completo](https://medium.com/@asfo/c%C3%B3mo-comunicar-dos-componentes-sin-relaci%C3%B3n-en-angular-b39ce978549c)
+
 # ComponentsCommunications
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
